@@ -52,7 +52,7 @@
          Model: Anomaly Detection or Random Forest
          Task: Detect fraudulent transactions
 
-Advanced Projects
+## Advanced Projects
 
 11)    AI Chatbot using NLP
         Dataset: Custom dataset
