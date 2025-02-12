@@ -25,9 +25,9 @@
         Model: Random Forest, Logistic Regression
         Task: Predict if a passenger survived or not
 
-Intermediate Projects
+## Intermediate Projects
 
-6)      Stock Price Prediction
+6)    Stock Price Prediction
         Dataset: Yahoo Finance API
         Model: LSTM (Deep Learning)
         Task: Predict stock prices based on historical data
